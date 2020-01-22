@@ -1,0 +1,2 @@
+# TOMKOMPUTER
+Newbie in android
